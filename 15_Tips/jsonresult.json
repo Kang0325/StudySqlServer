@@ -1,0 +1,127 @@
+[
+    {
+        "userID": "KBS     ",
+        "username": "김범수",
+        "birthyear": 1979,
+        "addr": "경남",
+        "height": 173,
+        "b": [
+            {
+                "prodName": "운동화",
+                "price": 30
+            },
+            {
+                "prodName": "노트북",
+                "price": 1000
+            }
+        ]
+    },
+    {
+        "userID": "BBK     ",
+        "username": "바비킴",
+        "birthyear": 1973,
+        "addr": "서울",
+        "height": 176,
+        "b": [
+            {
+                "prodName": "모니터",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "userID": "KBS     ",
+        "username": "김범수",
+        "birthyear": 1979,
+        "addr": "경남",
+        "height": 173,
+        "b": [
+            {
+                "prodName": "청바지",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "userID": "BBK     ",
+        "username": "바비킴",
+        "birthyear": 1973,
+        "addr": "서울",
+        "height": 176,
+        "b": [
+            {
+                "prodName": "메모리",
+                "price": 80
+            }
+        ]
+    },
+    {
+        "userID": "SSK     ",
+        "username": "성시경",
+        "birthyear": 1979,
+        "addr": "서울",
+        "height": 186,
+        "b": [
+            {
+                "prodName": "책",
+                "price": 15
+            }
+        ]
+    },
+    {
+        "userID": "BBK     ",
+        "username": "바비킴",
+        "birthyear": 1973,
+        "addr": "서울",
+        "height": 176,
+        "b": [
+            {
+                "prodName": "운동화",
+                "price": 30
+            },
+            {
+                "prodName": "운동화",
+                "price": 30
+            }
+        ]
+    },
+    {
+        "userID": "SMG     ",
+        "username": "성명건",
+        "birthyear": 1976,
+        "addr": "부산",
+        "height": 179,
+        "b": [
+            {
+                "prodName": "테슬라",
+                "price": 5000
+            }
+        ]
+    },
+    {
+        "userID": "KKH     ",
+        "username": "김경호",
+        "birthyear": 1971,
+        "addr": "전남",
+        "height": 177,
+        "b": [
+            {
+                "prodName": "기타",
+                "price": 4000
+            }
+        ]
+    },
+    {
+        "userID": "HKD     ",
+        "username": "홍길동",
+        "birthyear": 1988,
+        "addr": "한양",
+        "height": 174,
+        "b": [
+            {
+                "prodName": "노트북",
+                "price": 8000
+            }
+        ]
+    }
+]
